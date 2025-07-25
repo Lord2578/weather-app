@@ -6,7 +6,7 @@ import {
   View,
 } from "react-native";
 import React from "react";
-import { Canvas, Line, LinearGradient, Rect, vec } from "@shopify/react-native-skia";
+import { Canvas, LinearGradient, Rect, vec } from "@shopify/react-native-skia";
 import useApplicationDimensions from "../hooks/useApplicationDimensions";
 
 const HomeBackground = () => {
