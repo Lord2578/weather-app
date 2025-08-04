@@ -28,7 +28,7 @@ const HomeBackground = () => {
       </Canvas>
 
       <ImageBackground
-        source={require("../assets/images/Background.png")}
+        source={require("../assets/home/Background.png")}
         resizeMode="cover"
         style={{ height: "100%" }}
       >
@@ -55,7 +55,7 @@ const HomeBackground = () => {
             /> */}
         </Canvas>
         <Image
-          source={require("../assets/images/House.png")}
+          source={require("../assets/home/House.png")}
           resizeMode="cover"
           style={myStyles.houseImage}
         />

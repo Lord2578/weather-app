@@ -1,0 +1,1 @@
+export const DEEGREE_SYMBOL = "\u00B0"; 
